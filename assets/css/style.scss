@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #0d0d0d; /* negro */
+  color: #f7931a;           /* naranja Bitcoin */
+}
+
+a {
+  color: #ff9900;
+}
+
+h1, h2, h3 {
+  color: #f7931a;
+}
