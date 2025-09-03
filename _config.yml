@@ -2,3 +2,6 @@ title: Mi primer Satoshi ₿
 description: Guía completa en español para aprender sobre Bitcoin.
 theme: minima
 markdown: kramdown
+sass:
+  style: compressed
+
